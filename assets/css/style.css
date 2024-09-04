@@ -962,7 +962,8 @@
 }
 .creative-studio-welcome .second-image-wrapper{
     position: relative;
-    margin: 0px -67px 0px 0px;
+    /* margin: 0px -67px 0px 0px; */
+    margin: 0px -237px 0px 0px;
     text-align: end;
 }
 .creative-studio-welcome .pbmit-col-right{
