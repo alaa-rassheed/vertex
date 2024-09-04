@@ -7546,7 +7546,7 @@ body.rtl .pbmit-portfolio-style-4 .pbminfotech-titlebox {
 	transition: all 0.9s ease 0s;
 }
 .pbmit-blog-style-10{
-	margin-block-end: 30px;
+	margin-block-start: 30px;
 }
 .pbmit-blog-style-10 .post-item {
 	border-right: 1px solid var(--pbmit-blackish-color);
